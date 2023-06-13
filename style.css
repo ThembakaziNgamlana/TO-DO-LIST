@@ -137,3 +137,9 @@ user-input button:hover{
         width:60%;
      }
 }
+
+@media(max-width:320px){
+    .item{
+        width:60%;
+     }
+}
